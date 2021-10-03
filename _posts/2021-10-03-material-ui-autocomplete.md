@@ -9,6 +9,7 @@ tags:
   - autocomplete
 ---
 
+
 I realized they did not talk about autocomplete textfield delete process when I checked material ui documentation last days.
 Then I decided making post with this because of sometimes easy things takes time. 
 That why I want to talk about it how can you delete textfield without click autocomplete cancel mark. Maybe you need clear 
