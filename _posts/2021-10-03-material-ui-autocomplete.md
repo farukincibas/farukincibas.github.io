@@ -9,8 +9,10 @@ tags:
   - autocomplete
 ---
 
-Last days I realized when I check material ui documentation. They did not talk about autocomplete textfield delete process 
-that why I want to talk about it how can u delete textfield without click autocomplete cancel mark. maybe you need clear 
+
+I realized they did not talk about autocomplete textfield delete process when I checked material ui documentation last days.
+Then I decided making post with this because of sometimes easy things takes time. 
+That why I want to talk about it how can you delete textfield without click autocomplete cancel mark. Maybe you need clear 
 autocomplete textfield after some transactions that why I created simple delete function and you can use everywhere.
 Today I will use React for explanation.
 
