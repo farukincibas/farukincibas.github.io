@@ -1,6 +1,6 @@
 ---
 title: "Post:  React using dangerouslySetInnerHTML with dompurify "
-date: 2021-09-30T15:34:30-04:00
+date: 2022-01-01T15:34:30-04:00
 categories:
   - react
 tags:
@@ -13,7 +13,7 @@ tags:
 When to use dangerouslySetInnerHTML?
 ---
 
-if you take html data from rich text editor or it is coming from another application that html and you want to use your app like 3d secure form
+if you take html data from rich text editor or it is coming from another application that html and you want to use your app.
 
 Why Dompurify
 ---
