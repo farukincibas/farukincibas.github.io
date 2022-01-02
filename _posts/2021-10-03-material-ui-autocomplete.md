@@ -1,5 +1,5 @@
 ---
-title: "Post: Material UI Clear Autocomplete Textfield"
+title: "Material UI Clear Autocomplete Textfield"
 date: 2021-09-30T15:34:30-04:00
 categories:
   - material-ui

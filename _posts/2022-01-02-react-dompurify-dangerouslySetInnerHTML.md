@@ -1,5 +1,5 @@
 ---
-title: "Post:  React using dangerouslySetInnerHTML with dompurify "
+title: "React using dangerouslySetInnerHTML with dompurify "
 date: 2022-01-01T15:34:30-04:00
 categories:
   - react
